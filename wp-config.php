@@ -20,14 +20,10 @@ define('DB_NAME', 'firmdew');
 #define('DB_NAME', 'a9676827_firmdew');
 
 /** MySQL database username */
-//define('DB_USER', 'usetest_f_user');
 define('DB_USER', 'root');
-#define('DB_USER', 'a9676827_user');
 
 /** MySQL database password */
-#define('DB_PASSWORD', 'M.vP_T+!TpiM');
 define('DB_PASSWORD', '');
-#define('DB_PASSWORD', 'firmdew_#_517');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
