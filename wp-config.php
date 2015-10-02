@@ -16,11 +16,11 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'firmdew');
+define('DB_NAME', '');
 #define('DB_NAME', 'a9676827_firmdew');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', '');
 
 /** MySQL database password */
 define('DB_PASSWORD', '');
@@ -58,8 +58,8 @@ define('NONCE_SALT',       '-Z04F@^8BoOQ?R$J!%)GJHli,ow;8g+nIh2|Ry4to[LWqkZn<<V.
 /**
  * define site URL
  */
-define('WP_HOME','http://localhost/firmdew');
-define('WP_SITEURL','http://localhost/firmdew');
+define('WP_HOME','');
+define('WP_SITEURL','');
 
 /**
  * WordPress Database Table prefix.
