@@ -1,0 +1,80 @@
+[15-Nov-2014 05:12:01 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 05:12:01 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 05:16:02 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 05:16:02 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 07:19:39 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 07:19:39 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 07:23:49 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 07:23:49 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 07:24:02 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 07:24:02 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 07:25:14 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 07:25:14 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 07:28:01 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 07:28:01 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 07:28:19 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 07:28:19 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 07:28:50 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 07:28:50 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 07:28:59 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 07:28:59 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 07:29:28 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 07:29:28 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 07:30:08 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 07:30:08 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 07:30:35 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 07:30:35 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 07:30:48 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 07:30:48 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 07:33:16 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 07:33:16 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 07:33:57 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 07:33:57 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 07:34:17 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 07:34:17 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 07:38:11 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 07:38:11 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 07:38:24 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 07:38:24 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 07:38:42 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 07:38:42 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 07:38:43 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 07:38:43 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 07:39:26 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 07:39:26 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 07:39:29 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 07:39:29 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 07:41:00 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 07:41:00 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 07:41:02 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 07:41:02 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 07:42:01 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 07:42:01 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 07:44:20 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 07:44:20 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 07:44:23 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 07:44:23 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 07:45:31 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 07:45:31 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 07:45:35 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 07:45:35 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 07:46:26 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 07:46:26 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 07:46:33 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 07:46:33 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 07:47:51 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 07:47:51 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 07:49:07 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 07:49:07 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 07:49:33 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 07:49:33 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 07:49:52 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 07:49:52 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 07:50:31 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 07:50:31 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 07:54:03 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 07:54:03 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 07:54:13 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 07:54:14 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0
+[15-Nov-2014 07:56:53 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2014 07:56:53 UTC] PHP Fatal error:  Unknown: Failed opening required '/usr/share/php/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in Unknown on line 0

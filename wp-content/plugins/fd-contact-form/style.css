@@ -1,0 +1,33 @@
+.fd-form{
+	width: 50%;
+	display: inline-block;
+	position: relative;
+}
+.fd-form input[type="text"],
+.fd-form textarea{
+	padding: 8px 6px;
+	width: 80%;
+
+	border: 1px solid #ccc;
+	border-radius: 2px;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	
+}
+.fd-form input[type="submit"]{
+	padding: 8px;
+	font-size: 15px;
+	color: #666;
+}
+.fd-form .hide-me{
+	visibility: hidden;
+}
+
+.fd-form .placeholder{
+	color: #ccc;
+}
+.fd-input-invalid,
+.fd-input-invalid.placeholder{
+	border: 2px solid #FD5656!important;
+    color: #FD5656!important;
+}
