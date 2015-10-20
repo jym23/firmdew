@@ -15,7 +15,7 @@
                 <header>
                     <div id="logo">
                         <a href="<?php echo home_url(); ?>">
-                            <img src="<?php echo get_template_directory_uri(); ?>/images/firmdew_logo.jpg">
+                            <img src="<?php echo get_template_directory_uri(); ?>/images/logo.png">
                         </a>
                     </div>
                     <?php wp_nav_menu( array( 'theme_location' => 'primary', 'menu_class' => 'menus', 'menu_id' => 'top-menu', 'container'=>'nav', 'container_id' => 'top-menu-container', 'container_class' => 'menu-container' ) ); ?>

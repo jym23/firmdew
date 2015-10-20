@@ -37,7 +37,7 @@ if( !class_exists('Theme_Setup') ){
 				wp_register_script('firmdew-home-slider', get_template_directory_uri() . '/assets/js/jquery.cycle.all.js', array('jquery'), time(), true);
 			endif;
 
-			if( !is_user_logged_in()) :
+			if( !is_admin()) :
 				wp_register_style('firmdew-fonts', $ts->get_font_url(), '', time(), 'all');
 			endif;
 			wp_register_style('firmdew-style', get_stylesheet_uri(), '', time(), 'all');
@@ -46,7 +46,9 @@ if( !class_exists('Theme_Setup') ){
 			wp_enqueue_script( 'firmdew-menu' );
 			wp_enqueue_script( 'firmdew-home-slider' );
 			wp_enqueue_script( 'firmdew-js' );
-			wp_enqueue_style( 'firmdew-style','firmdew-fonts');
+			
+			wp_enqueue_style( 'firmdew-style');
+			wp_enqueue_style( 'firmdew-fonts' );
 			wp_enqueue_style( 'firmdew-fontawesome' );
 
 		}
