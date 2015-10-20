@@ -67,9 +67,10 @@ class Fd_Contact_Form{
 				);
 			$sanitize_code = isset($_POST['user_code']) ? sanitize_text_field( $_POST['user_code'] ) : '';
 
-			if( get_option('wp-captcha') == $sanitize_code ){
-				$message['captcha'] = false;	
-				$message['success'] = true;
+			echo get_option('wp-captcha') . ' and ' . $sanitize_code . '<br/>';
+			if( get_option('wp-captcha') != $sanitize_code ){
+				$message['captcha'] = true;	
+				$message['success'] = false;
 			}
 
 			$email = sanitize_email($_POST['email']);
@@ -78,7 +79,6 @@ class Fd_Contact_Form{
 				$message['success'] = false;
 			}
 
-			echo '<pre>'; print_r($message); echo '</pre>';
 			return $message;
 
 		endif;
@@ -86,7 +86,6 @@ class Fd_Contact_Form{
 	}
 	public function send_mail_to_admin( $data ){
 
-		#echo '<pre>'; print_r($data); echo '</pre>'; die();
 		add_filter( 'wp_mail_content_type', array($this, 'set_html_content_type') );
 
 		$to = get_option('admin_email');
@@ -106,6 +105,7 @@ class Fd_Contact_Form{
 
 		wp_register_script('fd-contact-form-jscript', $this->self_uri . 'jscript.js', array('jquery'), time(), true);
 		wp_enqueue_script( 'fd-contact-form-jscript' );
+		
 	}
 	public function set_html_content_type() {
 		return 'text/html';
